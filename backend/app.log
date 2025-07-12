@@ -1,0 +1,463 @@
+2025-07-12 10:20:53,762 - INFO - Gemini API configurada com sucesso
+2025-07-12 10:20:57,855 - ERROR - Erro ao conectar ao Redis: Error 10061 connecting to localhost:6379. Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+2025-07-12 10:20:57,856 - WARNING - Aplicação continuará sem Redis - histórico não será persistido
+2025-07-12 10:20:57,859 - INFO - Iniciando servidor Flask na porta 5001
+2025-07-12 10:20:57,930 - WARNING -  * Debugger is active!
+2025-07-12 10:20:57,945 - INFO -  * Debugger PIN: 291-466-175
+2025-07-12 10:21:29,357 - INFO - 127.0.0.1 - - [12/Jul/2025 10:21:29] "OPTIONS /chat HTTP/1.1" 200 -
+2025-07-12 10:21:29,565 - INFO - Recebida requisição POST em /chat
+2025-07-12 10:21:29,590 - INFO - Session ID: session_1752325784903_a18zvqf, Message length: 5
+2025-07-12 10:21:29,613 - ERROR - Redis não disponível
+2025-07-12 10:21:29,621 - INFO - 127.0.0.1 - - [12/Jul/2025 10:21:29] "[35m[1mPOST /chat HTTP/1.1[0m" 503 -
+2025-07-12 10:22:26,428 - INFO - 127.0.0.1 - - [12/Jul/2025 10:22:26] "OPTIONS /chat HTTP/1.1" 200 -
+2025-07-12 10:22:26,645 - INFO - Recebida requisição POST em /chat
+2025-07-12 10:22:26,648 - INFO - Session ID: session_1752325784903_a18zvqf, Message length: 2
+2025-07-12 10:22:26,649 - ERROR - Redis não disponível
+2025-07-12 10:22:26,656 - INFO - 127.0.0.1 - - [12/Jul/2025 10:22:26] "[35m[1mPOST /chat HTTP/1.1[0m" 503 -
+2025-07-12 10:23:31,021 - INFO -  * Detected change in 'C:\\Users\\Lenovo\\chat-entrevista-oca\\backend\\app.py', reloading
+2025-07-12 10:23:36,464 - INFO - Gemini API configurada com sucesso
+2025-07-12 10:23:40,544 - ERROR - Erro ao conectar ao Redis: Error 10061 connecting to localhost:6379. Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+2025-07-12 10:23:40,545 - WARNING - Aplicação continuará sem Redis - histórico não será persistido
+2025-07-12 10:23:40,546 - INFO - Iniciando servidor Flask na porta 5001
+2025-07-12 10:23:40,603 - WARNING -  * Debugger is active!
+2025-07-12 10:23:40,611 - INFO -  * Debugger PIN: 291-466-175
+2025-07-12 10:24:02,666 - INFO -  * Detected change in 'C:\\Users\\Lenovo\\chat-entrevista-oca\\backend\\app.py', reloading
+2025-07-12 10:24:07,191 - INFO - Gemini API configurada com sucesso
+2025-07-12 10:24:11,268 - ERROR - Erro ao conectar ao Redis: Error 10061 connecting to localhost:6379. Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+2025-07-12 10:24:11,269 - WARNING - Aplicação continuará sem Redis - histórico não será persistido
+2025-07-12 10:24:11,271 - INFO - Iniciando servidor Flask na porta 5001
+2025-07-12 10:24:11,317 - WARNING -  * Debugger is active!
+2025-07-12 10:24:11,323 - INFO -  * Debugger PIN: 291-466-175
+2025-07-12 10:24:46,215 - INFO -  * Detected change in 'C:\\Users\\Lenovo\\chat-entrevista-oca\\backend\\app.py', reloading
+2025-07-12 10:24:50,859 - INFO - Gemini API configurada com sucesso
+2025-07-12 10:24:54,938 - ERROR - Erro ao conectar ao Redis: Error 10061 connecting to localhost:6379. Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+2025-07-12 10:24:54,941 - WARNING - Aplicação continuará sem Redis - histórico não será persistido
+2025-07-12 10:24:54,943 - INFO - Iniciando servidor Flask na porta 5001
+2025-07-12 10:24:54,984 - WARNING -  * Debugger is active!
+2025-07-12 10:24:54,991 - INFO -  * Debugger PIN: 291-466-175
+2025-07-12 10:25:26,477 - INFO - Gemini API configurada com sucesso
+2025-07-12 10:25:30,545 - ERROR - Erro ao conectar ao Redis: Error 10061 connecting to localhost:6379. Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+2025-07-12 10:25:30,545 - WARNING - Aplicação continuará sem Redis - histórico não será persistido
+2025-07-12 10:25:30,547 - INFO - Iniciando servidor Flask na porta 5001
+2025-07-12 10:25:30,617 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.15.5:5001
+2025-07-12 10:25:30,618 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-12 10:25:30,623 - INFO -  * Restarting with stat
+2025-07-12 10:25:34,999 - INFO - Gemini API configurada com sucesso
+2025-07-12 10:25:39,075 - ERROR - Erro ao conectar ao Redis: Error 10061 connecting to localhost:6379. Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+2025-07-12 10:25:39,075 - WARNING - Aplicação continuará sem Redis - histórico não será persistido
+2025-07-12 10:25:39,077 - INFO - Iniciando servidor Flask na porta 5001
+2025-07-12 10:25:39,124 - WARNING -  * Debugger is active!
+2025-07-12 10:25:39,130 - INFO -  * Debugger PIN: 291-466-175
+2025-07-12 10:26:18,641 - INFO - 127.0.0.1 - - [12/Jul/2025 10:26:18] "OPTIONS /chat HTTP/1.1" 200 -
+2025-07-12 10:26:18,908 - INFO - Recebida requisição POST em /chat
+2025-07-12 10:26:18,910 - INFO - Session ID: session_1752325784903_a18zvqf, Message length: 2
+2025-07-12 10:26:18,911 - INFO - Inicializando modelo Gemini
+2025-07-12 10:26:18,913 - INFO - Modelo Gemini inicializado com sucesso
+2025-07-12 10:26:18,914 - INFO - Enviando mensagem para Gemini
+2025-07-12 10:26:21,370 - INFO - Resposta recebida do Gemini com 360 caracteres
+2025-07-12 10:26:21,371 - INFO - Requisição processada com sucesso
+2025-07-12 10:26:21,372 - INFO - 127.0.0.1 - - [12/Jul/2025 10:26:21] "POST /chat HTTP/1.1" 200 -
+2025-07-12 10:29:55,445 - INFO - 127.0.0.1 - - [12/Jul/2025 10:29:55] "OPTIONS /chat HTTP/1.1" 200 -
+2025-07-12 10:29:55,729 - INFO - Recebida requisição POST em /chat
+2025-07-12 10:29:55,741 - INFO - Session ID: session_1752325784903_a18zvqf, Message length: 205
+2025-07-12 10:29:55,744 - INFO - Inicializando modelo Gemini
+2025-07-12 10:29:55,748 - INFO - Modelo Gemini inicializado com sucesso
+2025-07-12 10:29:55,749 - INFO - Enviando mensagem para Gemini
+2025-07-12 10:29:57,185 - INFO - Resposta recebida do Gemini com 487 caracteres
+2025-07-12 10:29:57,187 - INFO - Requisição processada com sucesso
+2025-07-12 10:29:57,188 - INFO - 127.0.0.1 - - [12/Jul/2025 10:29:57] "POST /chat HTTP/1.1" 200 -
+2025-07-12 10:43:35,614 - INFO - Gemini API configurada com sucesso
+2025-07-12 10:43:39,694 - ERROR - Erro ao conectar ao Redis: Error 10061 connecting to localhost:6379. Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+2025-07-12 10:43:39,722 - WARNING - Aplicação continuará sem Redis - histórico não será persistido
+2025-07-12 10:43:39,724 - INFO - Iniciando servidor Flask na porta 5001
+2025-07-12 10:43:40,097 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.15.5:5001
+2025-07-12 10:43:40,110 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-12 10:43:40,116 - INFO -  * Restarting with stat
+2025-07-12 10:43:51,150 - INFO - Gemini API configurada com sucesso
+2025-07-12 10:43:55,322 - ERROR - Erro ao conectar ao Redis: Error 10061 connecting to localhost:6379. Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+2025-07-12 10:43:55,324 - WARNING - Aplicação continuará sem Redis - histórico não será persistido
+2025-07-12 10:43:55,326 - INFO - Iniciando servidor Flask na porta 5001
+2025-07-12 10:43:55,374 - WARNING -  * Debugger is active!
+2025-07-12 10:43:55,402 - INFO -  * Debugger PIN: 291-466-175
+2025-07-12 10:44:30,896 - INFO - 127.0.0.1 - - [12/Jul/2025 10:44:30] "OPTIONS /chat HTTP/1.1" 200 -
+2025-07-12 10:44:30,958 - INFO - Recebida requisição POST em /chat
+2025-07-12 10:44:30,972 - INFO - Session ID: session_1752325784903_a18zvqf, Message length: 2
+2025-07-12 10:44:30,975 - INFO - Inicializando modelo Gemini
+2025-07-12 10:44:30,995 - INFO - Modelo Gemini inicializado com sucesso
+2025-07-12 10:44:30,995 - INFO - Enviando mensagem para Gemini
+2025-07-12 10:44:33,595 - INFO - Resposta recebida do Gemini com 408 caracteres
+2025-07-12 10:44:33,595 - INFO - Requisição processada com sucesso
+2025-07-12 10:44:33,599 - INFO - 127.0.0.1 - - [12/Jul/2025 10:44:33] "POST /chat HTTP/1.1" 200 -
+2025-07-12 10:49:11,403 - INFO - Gemini API configurada com sucesso
+2025-07-12 10:49:15,487 - ERROR - Erro ao conectar ao Redis: Error 10061 connecting to localhost:6379. Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+2025-07-12 10:49:15,489 - WARNING - Aplicação continuará sem Redis - histórico não será persistido
+2025-07-12 10:49:15,491 - INFO - Iniciando servidor Flask na porta 5001
+2025-07-12 10:49:15,862 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.15.5:5001
+2025-07-12 10:49:15,863 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-12 10:49:15,869 - INFO -  * Restarting with stat
+2025-07-12 10:49:21,235 - INFO - Gemini API configurada com sucesso
+2025-07-12 10:49:25,360 - ERROR - Erro ao conectar ao Redis: Error 10061 connecting to localhost:6379. Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+2025-07-12 10:49:25,360 - WARNING - Aplicação continuará sem Redis - histórico não será persistido
+2025-07-12 10:49:25,362 - INFO - Iniciando servidor Flask na porta 5001
+2025-07-12 10:49:25,463 - WARNING -  * Debugger is active!
+2025-07-12 10:49:27,538 - INFO -  * Debugger PIN: 291-466-175
+2025-07-12 11:48:55,927 - INFO - 127.0.0.1 - - [12/Jul/2025 11:48:55] "GET /?ide_webview_request_time=1752331733764 HTTP/1.1" 200 -
+2025-07-12 11:54:18,412 - INFO -  * Detected change in 'C:\\Users\\Lenovo\\chat-entrevista-oca\\backend\\app.py', reloading
+2025-07-12 11:54:19,370 - INFO -  * Restarting with stat
+2025-07-12 11:54:41,908 - INFO - Gemini API configurada com sucesso
+2025-07-12 11:54:46,132 - ERROR - Erro ao conectar ao Redis: Error 10061 connecting to localhost:6379. Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+2025-07-12 11:54:46,132 - WARNING - Aplicação continuará sem Redis - histórico não será persistido
+2025-07-12 11:54:46,136 - INFO - Iniciando servidor Flask na porta 5001
+2025-07-12 11:54:46,255 - WARNING -  * Debugger is active!
+2025-07-12 11:54:46,273 - INFO -  * Debugger PIN: 291-466-175
+2025-07-12 11:56:25,257 - INFO - Gemini API configurada com sucesso
+2025-07-12 11:56:29,344 - ERROR - Erro ao conectar ao Redis: Error 10061 connecting to localhost:6379. Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+2025-07-12 11:56:29,344 - WARNING - Aplicação continuará sem Redis - histórico não será persistido
+2025-07-12 11:56:29,357 - INFO - Iniciando servidor Flask na porta 5001
+2025-07-12 11:56:29,434 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.15.5:5001
+2025-07-12 11:56:29,434 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-12 11:56:29,448 - INFO -  * Restarting with stat
+2025-07-12 11:56:32,157 - INFO - Gemini API configurada com sucesso
+2025-07-12 11:56:36,270 - ERROR - Erro ao conectar ao Redis: Error 10061 connecting to localhost:6379. Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+2025-07-12 11:56:36,272 - WARNING - Aplicação continuará sem Redis - histórico não será persistido
+2025-07-12 11:56:36,274 - INFO - Iniciando servidor Flask na porta 5001
+2025-07-12 11:56:36,331 - WARNING -  * Debugger is active!
+2025-07-12 11:56:36,338 - INFO -  * Debugger PIN: 291-466-175
+2025-07-12 12:46:29,470 - INFO - 127.0.0.1 - - [12/Jul/2025 12:46:29] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:46:29,655 - INFO - 127.0.0.1 - - [12/Jul/2025 12:46:29] "GET / HTTP/1.1" 200 -
+2025-07-12 12:46:33,471 - INFO - 127.0.0.1 - - [12/Jul/2025 12:46:33] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:46:33,795 - INFO - 127.0.0.1 - - [12/Jul/2025 12:46:33] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-12 12:46:48,894 - INFO - 127.0.0.1 - - [12/Jul/2025 12:46:48] "OPTIONS /chat HTTP/1.1" 200 -
+2025-07-12 12:46:49,118 - INFO - Recebida requisição POST em /chat
+2025-07-12 12:46:49,134 - INFO - Session ID: session_1752335191112_o0lhisnqh, Message length: 2
+2025-07-12 12:46:49,135 - INFO - Inicializando modelo Gemini
+2025-07-12 12:46:49,200 - INFO - Modelo Gemini inicializado com sucesso
+2025-07-12 12:46:49,200 - INFO - Enviando mensagem para Gemini
+2025-07-12 12:46:52,060 - INFO - Resposta recebida do Gemini com 255 caracteres
+2025-07-12 12:46:52,060 - INFO - Requisição processada com sucesso
+2025-07-12 12:46:52,066 - INFO - 127.0.0.1 - - [12/Jul/2025 12:46:52] "POST /chat HTTP/1.1" 200 -
+2025-07-12 12:47:01,538 - INFO - 127.0.0.1 - - [12/Jul/2025 12:47:01] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:47:31,519 - INFO - 127.0.0.1 - - [12/Jul/2025 12:47:31] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:48:01,537 - INFO - 127.0.0.1 - - [12/Jul/2025 12:48:01] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:48:15,939 - INFO - 127.0.0.1 - - [12/Jul/2025 12:48:15] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:48:16,016 - INFO - 127.0.0.1 - - [12/Jul/2025 12:48:16] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-12 12:48:45,866 - INFO - 127.0.0.1 - - [12/Jul/2025 12:48:45] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:49:15,875 - INFO - 127.0.0.1 - - [12/Jul/2025 12:49:15] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:49:45,838 - INFO - 127.0.0.1 - - [12/Jul/2025 12:49:45] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:50:15,874 - INFO - 127.0.0.1 - - [12/Jul/2025 12:50:15] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:50:45,900 - INFO - 127.0.0.1 - - [12/Jul/2025 12:50:45] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:50:54,195 - INFO - 127.0.0.1 - - [12/Jul/2025 12:50:54] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:50:54,487 - INFO - 127.0.0.1 - - [12/Jul/2025 12:50:54] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-12 12:51:11,770 - INFO - 127.0.0.1 - - [12/Jul/2025 12:51:11] "OPTIONS /chat HTTP/1.1" 200 -
+2025-07-12 12:51:12,075 - INFO - Recebida requisição POST em /chat
+2025-07-12 12:51:12,075 - INFO - Session ID: session_1752335454066_h9knf324r, Message length: 2
+2025-07-12 12:51:12,075 - INFO - Inicializando modelo Gemini
+2025-07-12 12:51:12,075 - INFO - Modelo Gemini inicializado com sucesso
+2025-07-12 12:51:12,075 - INFO - Enviando mensagem para Gemini
+2025-07-12 12:51:14,111 - INFO - Resposta recebida do Gemini com 265 caracteres
+2025-07-12 12:51:14,115 - INFO - Requisição processada com sucesso
+2025-07-12 12:51:14,120 - INFO - 127.0.0.1 - - [12/Jul/2025 12:51:14] "POST /chat HTTP/1.1" 200 -
+2025-07-12 12:51:24,467 - INFO - 127.0.0.1 - - [12/Jul/2025 12:51:24] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:51:54,491 - INFO - 127.0.0.1 - - [12/Jul/2025 12:51:54] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:52:24,446 - INFO - 127.0.0.1 - - [12/Jul/2025 12:52:24] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:52:54,460 - INFO - 127.0.0.1 - - [12/Jul/2025 12:52:54] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:53:24,465 - INFO - 127.0.0.1 - - [12/Jul/2025 12:53:24] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:53:52,990 - INFO -  * Detected change in 'C:\\Users\\Lenovo\\chat-entrevista-oca\\backend\\app.py', reloading
+2025-07-12 12:53:56,004 - INFO -  * Restarting with stat
+2025-07-12 12:54:03,761 - INFO - Gemini API configurada com sucesso
+2025-07-12 12:54:07,883 - ERROR - Erro ao conectar ao Redis: Error 10061 connecting to localhost:6379. Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+2025-07-12 12:54:07,883 - WARNING - Aplicação continuará sem Redis - histórico não será persistido
+2025-07-12 12:54:07,887 - INFO - Iniciando servidor Flask na porta 5001
+2025-07-12 12:54:07,989 - WARNING -  * Debugger is active!
+2025-07-12 12:54:08,004 - INFO -  * Debugger PIN: 291-466-175
+2025-07-12 12:54:08,298 - INFO - 127.0.0.1 - - [12/Jul/2025 12:54:08] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:54:10,555 - INFO - 127.0.0.1 - - [12/Jul/2025 12:54:10] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:54:10,628 - INFO - 127.0.0.1 - - [12/Jul/2025 12:54:10] "GET / HTTP/1.1" 200 -
+2025-07-12 12:54:40,525 - INFO - 127.0.0.1 - - [12/Jul/2025 12:54:40] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:54:51,024 - INFO - 127.0.0.1 - - [12/Jul/2025 12:54:51] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:54:51,032 - INFO - 127.0.0.1 - - [12/Jul/2025 12:54:51] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-12 12:55:20,926 - INFO - 127.0.0.1 - - [12/Jul/2025 12:55:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:55:50,887 - INFO - 127.0.0.1 - - [12/Jul/2025 12:55:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:56:20,933 - INFO - 127.0.0.1 - - [12/Jul/2025 12:56:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:56:50,909 - INFO - 127.0.0.1 - - [12/Jul/2025 12:56:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:57:20,924 - INFO - 127.0.0.1 - - [12/Jul/2025 12:57:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:57:50,934 - INFO - 127.0.0.1 - - [12/Jul/2025 12:57:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:58:20,898 - INFO - 127.0.0.1 - - [12/Jul/2025 12:58:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:58:50,915 - INFO - 127.0.0.1 - - [12/Jul/2025 12:58:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:59:20,928 - INFO - 127.0.0.1 - - [12/Jul/2025 12:59:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 12:59:50,909 - INFO - 127.0.0.1 - - [12/Jul/2025 12:59:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:00:20,905 - INFO - 127.0.0.1 - - [12/Jul/2025 13:00:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:00:50,920 - INFO - 127.0.0.1 - - [12/Jul/2025 13:00:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:01:20,926 - INFO - 127.0.0.1 - - [12/Jul/2025 13:01:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:01:50,941 - INFO - 127.0.0.1 - - [12/Jul/2025 13:01:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:02:20,892 - INFO - 127.0.0.1 - - [12/Jul/2025 13:02:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:02:50,899 - INFO - 127.0.0.1 - - [12/Jul/2025 13:02:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:03:20,914 - INFO - 127.0.0.1 - - [12/Jul/2025 13:03:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:03:50,928 - INFO - 127.0.0.1 - - [12/Jul/2025 13:03:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:04:20,920 - INFO - 127.0.0.1 - - [12/Jul/2025 13:04:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:04:50,920 - INFO - 127.0.0.1 - - [12/Jul/2025 13:04:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:05:20,909 - INFO - 127.0.0.1 - - [12/Jul/2025 13:05:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:05:50,916 - INFO - 127.0.0.1 - - [12/Jul/2025 13:05:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:06:20,939 - INFO - 127.0.0.1 - - [12/Jul/2025 13:06:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:06:50,909 - INFO - 127.0.0.1 - - [12/Jul/2025 13:06:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:07:20,929 - INFO - 127.0.0.1 - - [12/Jul/2025 13:07:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:07:50,918 - INFO - 127.0.0.1 - - [12/Jul/2025 13:07:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:08:20,905 - INFO - 127.0.0.1 - - [12/Jul/2025 13:08:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:08:50,921 - INFO - 127.0.0.1 - - [12/Jul/2025 13:08:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:09:20,892 - INFO - 127.0.0.1 - - [12/Jul/2025 13:09:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:09:50,912 - INFO - 127.0.0.1 - - [12/Jul/2025 13:09:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:10:20,919 - INFO - 127.0.0.1 - - [12/Jul/2025 13:10:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:10:50,934 - INFO - 127.0.0.1 - - [12/Jul/2025 13:10:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:11:20,884 - INFO - 127.0.0.1 - - [12/Jul/2025 13:11:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:11:50,911 - INFO - 127.0.0.1 - - [12/Jul/2025 13:11:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:12:20,910 - INFO - 127.0.0.1 - - [12/Jul/2025 13:12:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:12:50,940 - INFO - 127.0.0.1 - - [12/Jul/2025 13:12:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:13:20,895 - INFO - 127.0.0.1 - - [12/Jul/2025 13:13:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:13:50,937 - INFO - 127.0.0.1 - - [12/Jul/2025 13:13:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:14:20,934 - INFO - 127.0.0.1 - - [12/Jul/2025 13:14:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:14:50,940 - INFO - 127.0.0.1 - - [12/Jul/2025 13:14:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:15:20,925 - INFO - 127.0.0.1 - - [12/Jul/2025 13:15:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:15:50,907 - INFO - 127.0.0.1 - - [12/Jul/2025 13:15:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:16:20,902 - INFO - 127.0.0.1 - - [12/Jul/2025 13:16:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:16:50,900 - INFO - 127.0.0.1 - - [12/Jul/2025 13:16:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:17:20,912 - INFO - 127.0.0.1 - - [12/Jul/2025 13:17:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:17:50,925 - INFO - 127.0.0.1 - - [12/Jul/2025 13:17:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:18:20,908 - INFO - 127.0.0.1 - - [12/Jul/2025 13:18:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:18:50,901 - INFO - 127.0.0.1 - - [12/Jul/2025 13:18:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:19:20,919 - INFO - 127.0.0.1 - - [12/Jul/2025 13:19:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:19:50,905 - INFO - 127.0.0.1 - - [12/Jul/2025 13:19:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:20:20,903 - INFO - 127.0.0.1 - - [12/Jul/2025 13:20:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:20:50,940 - INFO - 127.0.0.1 - - [12/Jul/2025 13:20:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:21:21,039 - INFO - 127.0.0.1 - - [12/Jul/2025 13:21:21] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:21:50,898 - INFO - 127.0.0.1 - - [12/Jul/2025 13:21:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:22:20,907 - INFO - 127.0.0.1 - - [12/Jul/2025 13:22:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:22:50,924 - INFO - 127.0.0.1 - - [12/Jul/2025 13:22:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:23:20,920 - INFO - 127.0.0.1 - - [12/Jul/2025 13:23:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:23:50,901 - INFO - 127.0.0.1 - - [12/Jul/2025 13:23:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:24:20,904 - INFO - 127.0.0.1 - - [12/Jul/2025 13:24:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:24:50,943 - INFO - 127.0.0.1 - - [12/Jul/2025 13:24:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:25:20,906 - INFO - 127.0.0.1 - - [12/Jul/2025 13:25:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:25:50,921 - INFO - 127.0.0.1 - - [12/Jul/2025 13:25:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:26:20,925 - INFO - 127.0.0.1 - - [12/Jul/2025 13:26:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:26:50,928 - INFO - 127.0.0.1 - - [12/Jul/2025 13:26:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:27:20,912 - INFO - 127.0.0.1 - - [12/Jul/2025 13:27:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:27:50,942 - INFO - 127.0.0.1 - - [12/Jul/2025 13:27:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:28:20,897 - INFO - 127.0.0.1 - - [12/Jul/2025 13:28:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:28:50,903 - INFO - 127.0.0.1 - - [12/Jul/2025 13:28:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:29:20,969 - INFO - 127.0.0.1 - - [12/Jul/2025 13:29:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:29:50,918 - INFO - 127.0.0.1 - - [12/Jul/2025 13:29:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:30:20,924 - INFO - 127.0.0.1 - - [12/Jul/2025 13:30:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:30:50,919 - INFO - 127.0.0.1 - - [12/Jul/2025 13:30:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:31:20,906 - INFO - 127.0.0.1 - - [12/Jul/2025 13:31:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:31:50,947 - INFO - 127.0.0.1 - - [12/Jul/2025 13:31:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:32:20,932 - INFO - 127.0.0.1 - - [12/Jul/2025 13:32:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:32:50,945 - INFO - 127.0.0.1 - - [12/Jul/2025 13:32:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:33:20,917 - INFO - 127.0.0.1 - - [12/Jul/2025 13:33:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:33:50,912 - INFO - 127.0.0.1 - - [12/Jul/2025 13:33:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:34:20,903 - INFO - 127.0.0.1 - - [12/Jul/2025 13:34:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:34:50,886 - INFO - 127.0.0.1 - - [12/Jul/2025 13:34:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:35:20,920 - INFO - 127.0.0.1 - - [12/Jul/2025 13:35:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:35:50,924 - INFO - 127.0.0.1 - - [12/Jul/2025 13:35:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:36:20,916 - INFO - 127.0.0.1 - - [12/Jul/2025 13:36:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:36:50,917 - INFO - 127.0.0.1 - - [12/Jul/2025 13:36:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:37:20,946 - INFO - 127.0.0.1 - - [12/Jul/2025 13:37:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:37:50,924 - INFO - 127.0.0.1 - - [12/Jul/2025 13:37:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:38:20,932 - INFO - 127.0.0.1 - - [12/Jul/2025 13:38:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:38:50,937 - INFO - 127.0.0.1 - - [12/Jul/2025 13:38:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:39:20,928 - INFO - 127.0.0.1 - - [12/Jul/2025 13:39:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:39:50,903 - INFO - 127.0.0.1 - - [12/Jul/2025 13:39:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:40:20,915 - INFO - 127.0.0.1 - - [12/Jul/2025 13:40:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:40:50,900 - INFO - 127.0.0.1 - - [12/Jul/2025 13:40:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:41:20,907 - INFO - 127.0.0.1 - - [12/Jul/2025 13:41:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:41:50,927 - INFO - 127.0.0.1 - - [12/Jul/2025 13:41:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:42:20,940 - INFO - 127.0.0.1 - - [12/Jul/2025 13:42:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:42:50,916 - INFO - 127.0.0.1 - - [12/Jul/2025 13:42:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:43:20,922 - INFO - 127.0.0.1 - - [12/Jul/2025 13:43:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:43:50,908 - INFO - 127.0.0.1 - - [12/Jul/2025 13:43:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:44:20,927 - INFO - 127.0.0.1 - - [12/Jul/2025 13:44:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:44:50,912 - INFO - 127.0.0.1 - - [12/Jul/2025 13:44:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:45:20,910 - INFO - 127.0.0.1 - - [12/Jul/2025 13:45:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:45:51,108 - INFO - 127.0.0.1 - - [12/Jul/2025 13:45:51] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:46:20,959 - INFO - 127.0.0.1 - - [12/Jul/2025 13:46:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:46:50,895 - INFO - 127.0.0.1 - - [12/Jul/2025 13:46:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:47:20,899 - INFO - 127.0.0.1 - - [12/Jul/2025 13:47:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:47:50,906 - INFO - 127.0.0.1 - - [12/Jul/2025 13:47:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:48:20,900 - INFO - 127.0.0.1 - - [12/Jul/2025 13:48:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:48:50,911 - INFO - 127.0.0.1 - - [12/Jul/2025 13:48:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:49:20,984 - INFO - 127.0.0.1 - - [12/Jul/2025 13:49:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:49:50,912 - INFO - 127.0.0.1 - - [12/Jul/2025 13:49:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:50:20,905 - INFO - 127.0.0.1 - - [12/Jul/2025 13:50:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:50:50,899 - INFO - 127.0.0.1 - - [12/Jul/2025 13:50:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:51:20,903 - INFO - 127.0.0.1 - - [12/Jul/2025 13:51:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:51:50,919 - INFO - 127.0.0.1 - - [12/Jul/2025 13:51:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:52:20,933 - INFO - 127.0.0.1 - - [12/Jul/2025 13:52:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:52:50,907 - INFO - 127.0.0.1 - - [12/Jul/2025 13:52:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:53:20,894 - INFO - 127.0.0.1 - - [12/Jul/2025 13:53:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:53:50,935 - INFO - 127.0.0.1 - - [12/Jul/2025 13:53:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:54:20,917 - INFO - 127.0.0.1 - - [12/Jul/2025 13:54:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:54:50,911 - INFO - 127.0.0.1 - - [12/Jul/2025 13:54:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:55:20,939 - INFO - 127.0.0.1 - - [12/Jul/2025 13:55:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:55:50,912 - INFO - 127.0.0.1 - - [12/Jul/2025 13:55:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:56:20,925 - INFO - 127.0.0.1 - - [12/Jul/2025 13:56:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:56:50,919 - INFO - 127.0.0.1 - - [12/Jul/2025 13:56:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:57:20,917 - INFO - 127.0.0.1 - - [12/Jul/2025 13:57:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:57:50,910 - INFO - 127.0.0.1 - - [12/Jul/2025 13:57:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:58:20,907 - INFO - 127.0.0.1 - - [12/Jul/2025 13:58:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:58:50,918 - INFO - 127.0.0.1 - - [12/Jul/2025 13:58:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:59:20,916 - INFO - 127.0.0.1 - - [12/Jul/2025 13:59:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 13:59:50,939 - INFO - 127.0.0.1 - - [12/Jul/2025 13:59:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:00:20,936 - INFO - 127.0.0.1 - - [12/Jul/2025 14:00:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:00:50,923 - INFO - 127.0.0.1 - - [12/Jul/2025 14:00:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:01:20,945 - INFO - 127.0.0.1 - - [12/Jul/2025 14:01:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:01:50,937 - INFO - 127.0.0.1 - - [12/Jul/2025 14:01:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:02:20,933 - INFO - 127.0.0.1 - - [12/Jul/2025 14:02:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:02:50,911 - INFO - 127.0.0.1 - - [12/Jul/2025 14:02:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:03:20,894 - INFO - 127.0.0.1 - - [12/Jul/2025 14:03:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:03:50,922 - INFO - 127.0.0.1 - - [12/Jul/2025 14:03:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:04:20,906 - INFO - 127.0.0.1 - - [12/Jul/2025 14:04:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:04:50,918 - INFO - 127.0.0.1 - - [12/Jul/2025 14:04:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:05:20,912 - INFO - 127.0.0.1 - - [12/Jul/2025 14:05:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:05:50,891 - INFO - 127.0.0.1 - - [12/Jul/2025 14:05:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:06:20,930 - INFO - 127.0.0.1 - - [12/Jul/2025 14:06:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:06:50,916 - INFO - 127.0.0.1 - - [12/Jul/2025 14:06:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:07:20,917 - INFO - 127.0.0.1 - - [12/Jul/2025 14:07:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:07:50,910 - INFO - 127.0.0.1 - - [12/Jul/2025 14:07:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:08:20,924 - INFO - 127.0.0.1 - - [12/Jul/2025 14:08:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:08:50,900 - INFO - 127.0.0.1 - - [12/Jul/2025 14:08:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:09:20,903 - INFO - 127.0.0.1 - - [12/Jul/2025 14:09:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:09:50,914 - INFO - 127.0.0.1 - - [12/Jul/2025 14:09:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:10:20,912 - INFO - 127.0.0.1 - - [12/Jul/2025 14:10:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:10:50,946 - INFO - 127.0.0.1 - - [12/Jul/2025 14:10:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:11:20,906 - INFO - 127.0.0.1 - - [12/Jul/2025 14:11:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:11:50,905 - INFO - 127.0.0.1 - - [12/Jul/2025 14:11:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:12:20,926 - INFO - 127.0.0.1 - - [12/Jul/2025 14:12:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:12:50,896 - INFO - 127.0.0.1 - - [12/Jul/2025 14:12:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:13:20,918 - INFO - 127.0.0.1 - - [12/Jul/2025 14:13:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:13:50,915 - INFO - 127.0.0.1 - - [12/Jul/2025 14:13:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:14:20,924 - INFO - 127.0.0.1 - - [12/Jul/2025 14:14:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:14:50,930 - INFO - 127.0.0.1 - - [12/Jul/2025 14:14:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:15:20,923 - INFO - 127.0.0.1 - - [12/Jul/2025 14:15:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:15:50,928 - INFO - 127.0.0.1 - - [12/Jul/2025 14:15:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:16:20,891 - INFO - 127.0.0.1 - - [12/Jul/2025 14:16:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:16:50,893 - INFO - 127.0.0.1 - - [12/Jul/2025 14:16:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:17:20,915 - INFO - 127.0.0.1 - - [12/Jul/2025 14:17:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:17:50,914 - INFO - 127.0.0.1 - - [12/Jul/2025 14:17:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:18:20,910 - INFO - 127.0.0.1 - - [12/Jul/2025 14:18:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:18:50,902 - INFO - 127.0.0.1 - - [12/Jul/2025 14:18:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:19:20,901 - INFO - 127.0.0.1 - - [12/Jul/2025 14:19:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:19:50,917 - INFO - 127.0.0.1 - - [12/Jul/2025 14:19:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:20:20,933 - INFO - 127.0.0.1 - - [12/Jul/2025 14:20:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:20:50,944 - INFO - 127.0.0.1 - - [12/Jul/2025 14:20:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:21:20,926 - INFO - 127.0.0.1 - - [12/Jul/2025 14:21:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:21:50,886 - INFO - 127.0.0.1 - - [12/Jul/2025 14:21:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:22:20,892 - INFO - 127.0.0.1 - - [12/Jul/2025 14:22:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:22:50,918 - INFO - 127.0.0.1 - - [12/Jul/2025 14:22:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:23:20,913 - INFO - 127.0.0.1 - - [12/Jul/2025 14:23:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:23:50,940 - INFO - 127.0.0.1 - - [12/Jul/2025 14:23:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:24:20,937 - INFO - 127.0.0.1 - - [12/Jul/2025 14:24:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:24:50,932 - INFO - 127.0.0.1 - - [12/Jul/2025 14:24:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:25:20,918 - INFO - 127.0.0.1 - - [12/Jul/2025 14:25:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:25:50,913 - INFO - 127.0.0.1 - - [12/Jul/2025 14:25:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:26:20,928 - INFO - 127.0.0.1 - - [12/Jul/2025 14:26:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:26:50,911 - INFO - 127.0.0.1 - - [12/Jul/2025 14:26:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:27:20,968 - INFO - 127.0.0.1 - - [12/Jul/2025 14:27:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:27:50,949 - INFO - 127.0.0.1 - - [12/Jul/2025 14:27:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:28:20,909 - INFO - 127.0.0.1 - - [12/Jul/2025 14:28:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:28:50,977 - INFO - 127.0.0.1 - - [12/Jul/2025 14:28:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:29:20,892 - INFO - 127.0.0.1 - - [12/Jul/2025 14:29:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:29:50,917 - INFO - 127.0.0.1 - - [12/Jul/2025 14:29:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:30:20,918 - INFO - 127.0.0.1 - - [12/Jul/2025 14:30:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:30:50,910 - INFO - 127.0.0.1 - - [12/Jul/2025 14:30:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:31:20,915 - INFO - 127.0.0.1 - - [12/Jul/2025 14:31:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:31:50,925 - INFO - 127.0.0.1 - - [12/Jul/2025 14:31:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:32:20,933 - INFO - 127.0.0.1 - - [12/Jul/2025 14:32:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:32:50,980 - INFO - 127.0.0.1 - - [12/Jul/2025 14:32:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:33:20,899 - INFO - 127.0.0.1 - - [12/Jul/2025 14:33:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:33:50,909 - INFO - 127.0.0.1 - - [12/Jul/2025 14:33:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:34:20,931 - INFO - 127.0.0.1 - - [12/Jul/2025 14:34:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:34:50,905 - INFO - 127.0.0.1 - - [12/Jul/2025 14:34:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:35:20,932 - INFO - 127.0.0.1 - - [12/Jul/2025 14:35:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:35:50,932 - INFO - 127.0.0.1 - - [12/Jul/2025 14:35:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:36:20,925 - INFO - 127.0.0.1 - - [12/Jul/2025 14:36:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:36:50,926 - INFO - 127.0.0.1 - - [12/Jul/2025 14:36:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:37:20,904 - INFO - 127.0.0.1 - - [12/Jul/2025 14:37:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:37:50,914 - INFO - 127.0.0.1 - - [12/Jul/2025 14:37:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:38:20,914 - INFO - 127.0.0.1 - - [12/Jul/2025 14:38:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:38:50,927 - INFO - 127.0.0.1 - - [12/Jul/2025 14:38:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:39:20,920 - INFO - 127.0.0.1 - - [12/Jul/2025 14:39:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:39:50,931 - INFO - 127.0.0.1 - - [12/Jul/2025 14:39:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:40:20,934 - INFO - 127.0.0.1 - - [12/Jul/2025 14:40:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:40:50,894 - INFO - 127.0.0.1 - - [12/Jul/2025 14:40:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:41:20,909 - INFO - 127.0.0.1 - - [12/Jul/2025 14:41:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:41:50,903 - INFO - 127.0.0.1 - - [12/Jul/2025 14:41:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:42:20,917 - INFO - 127.0.0.1 - - [12/Jul/2025 14:42:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:42:50,914 - INFO - 127.0.0.1 - - [12/Jul/2025 14:42:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:43:20,908 - INFO - 127.0.0.1 - - [12/Jul/2025 14:43:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:43:50,919 - INFO - 127.0.0.1 - - [12/Jul/2025 14:43:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:44:20,924 - INFO - 127.0.0.1 - - [12/Jul/2025 14:44:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:44:50,919 - INFO - 127.0.0.1 - - [12/Jul/2025 14:44:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:45:20,932 - INFO - 127.0.0.1 - - [12/Jul/2025 14:45:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:45:50,910 - INFO - 127.0.0.1 - - [12/Jul/2025 14:45:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:46:20,921 - INFO - 127.0.0.1 - - [12/Jul/2025 14:46:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:46:50,908 - INFO - 127.0.0.1 - - [12/Jul/2025 14:46:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:47:20,908 - INFO - 127.0.0.1 - - [12/Jul/2025 14:47:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:47:50,901 - INFO - 127.0.0.1 - - [12/Jul/2025 14:47:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:48:20,924 - INFO - 127.0.0.1 - - [12/Jul/2025 14:48:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:48:50,957 - INFO - 127.0.0.1 - - [12/Jul/2025 14:48:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:49:20,912 - INFO - 127.0.0.1 - - [12/Jul/2025 14:49:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:49:50,907 - INFO - 127.0.0.1 - - [12/Jul/2025 14:49:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:50:20,903 - INFO - 127.0.0.1 - - [12/Jul/2025 14:50:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:50:50,926 - INFO - 127.0.0.1 - - [12/Jul/2025 14:50:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:51:20,911 - INFO - 127.0.0.1 - - [12/Jul/2025 14:51:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:51:50,921 - INFO - 127.0.0.1 - - [12/Jul/2025 14:51:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:52:20,902 - INFO - 127.0.0.1 - - [12/Jul/2025 14:52:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:52:50,932 - INFO - 127.0.0.1 - - [12/Jul/2025 14:52:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:53:20,915 - INFO - 127.0.0.1 - - [12/Jul/2025 14:53:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:53:50,908 - INFO - 127.0.0.1 - - [12/Jul/2025 14:53:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:54:20,921 - INFO - 127.0.0.1 - - [12/Jul/2025 14:54:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:54:50,915 - INFO - 127.0.0.1 - - [12/Jul/2025 14:54:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:55:20,901 - INFO - 127.0.0.1 - - [12/Jul/2025 14:55:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:55:50,913 - INFO - 127.0.0.1 - - [12/Jul/2025 14:55:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:56:20,908 - INFO - 127.0.0.1 - - [12/Jul/2025 14:56:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:56:50,931 - INFO - 127.0.0.1 - - [12/Jul/2025 14:56:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:57:20,918 - INFO - 127.0.0.1 - - [12/Jul/2025 14:57:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:57:50,907 - INFO - 127.0.0.1 - - [12/Jul/2025 14:57:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:58:20,912 - INFO - 127.0.0.1 - - [12/Jul/2025 14:58:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:58:50,910 - INFO - 127.0.0.1 - - [12/Jul/2025 14:58:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:59:20,886 - INFO - 127.0.0.1 - - [12/Jul/2025 14:59:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 14:59:50,944 - INFO - 127.0.0.1 - - [12/Jul/2025 14:59:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 15:00:20,896 - INFO - 127.0.0.1 - - [12/Jul/2025 15:00:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 15:00:50,914 - INFO - 127.0.0.1 - - [12/Jul/2025 15:00:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 15:01:20,923 - INFO - 127.0.0.1 - - [12/Jul/2025 15:01:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 15:01:50,899 - INFO - 127.0.0.1 - - [12/Jul/2025 15:01:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 15:02:20,935 - INFO - 127.0.0.1 - - [12/Jul/2025 15:02:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 15:02:50,930 - INFO - 127.0.0.1 - - [12/Jul/2025 15:02:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 15:03:20,949 - INFO - 127.0.0.1 - - [12/Jul/2025 15:03:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 15:03:50,913 - INFO - 127.0.0.1 - - [12/Jul/2025 15:03:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 15:04:20,924 - INFO - 127.0.0.1 - - [12/Jul/2025 15:04:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 15:04:50,917 - INFO - 127.0.0.1 - - [12/Jul/2025 15:04:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 15:05:20,921 - INFO - 127.0.0.1 - - [12/Jul/2025 15:05:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 15:05:50,964 - INFO - 127.0.0.1 - - [12/Jul/2025 15:05:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 15:06:20,923 - INFO - 127.0.0.1 - - [12/Jul/2025 15:06:20] "GET /health HTTP/1.1" 200 -
+2025-07-12 15:06:50,902 - INFO - 127.0.0.1 - - [12/Jul/2025 15:06:50] "GET /health HTTP/1.1" 200 -
+2025-07-12 18:28:28,990 - INFO - 127.0.0.1 - - [12/Jul/2025 18:28:28] "GET /health HTTP/1.1" 200 -
+2025-07-12 18:28:44,913 - INFO - 127.0.0.1 - - [12/Jul/2025 18:28:44] "GET /health HTTP/1.1" 200 -
+2025-07-12 18:29:15,458 - INFO - 127.0.0.1 - - [12/Jul/2025 18:29:15] "GET /health HTTP/1.1" 200 -
+2025-07-12 18:29:44,919 - INFO - 127.0.0.1 - - [12/Jul/2025 18:29:44] "GET /health HTTP/1.1" 200 -
+2025-07-12 18:30:08,527 - INFO - 127.0.0.1 - - [12/Jul/2025 18:30:08] "GET /health HTTP/1.1" 200 -
+2025-07-12 18:30:08,604 - INFO - 127.0.0.1 - - [12/Jul/2025 18:30:08] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-12 18:30:38,383 - INFO - 127.0.0.1 - - [12/Jul/2025 18:30:38] "GET /health HTTP/1.1" 200 -
+2025-07-12 18:31:08,379 - INFO - 127.0.0.1 - - [12/Jul/2025 18:31:08] "GET /health HTTP/1.1" 200 -
+2025-07-12 18:31:40,545 - INFO - 127.0.0.1 - - [12/Jul/2025 18:31:40] "GET /health HTTP/1.1" 200 -

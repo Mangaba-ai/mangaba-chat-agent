@@ -1,0 +1,42 @@
+# Virtual Environment
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
+# Coverage reports
+coverage/
+.coverage
+.nyc_output
+
+# Temporary files
+*.tmp
+*.temp
