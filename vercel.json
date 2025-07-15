@@ -1,0 +1,13 @@
+{
+  "builds": [
+    {
+      "src": "frontend/package.json",
+      "use": "@vercel/static-build",
+      "config": { "installCommand": "cd frontend && npm install", "buildCommand": "cd frontend && npm run build" }
+    },
+    {
+      "src": "backend/app.py",
+      "use": "@vercel/python"
+    }
+  ]
+}
