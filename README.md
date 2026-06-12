@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="assets/mangaba-logo.svg" alt="Mangaba AI" width="140"/>
+
+  [![Mangaba AI](https://img.shields.io/badge/Mangaba-AI-F97518?style=for-the-badge)](https://www.mangaba.ia.br)
+  [![Site](https://img.shields.io/badge/mangaba.ia.br-1E0D01?style=for-the-badge)](https://www.mangaba.ia.br)
+</div>
+
 # Chat de Entrevista Biográfica com IA
 
 Este projeto é uma aplicação web que simula uma entrevista biográfica conduzida por uma Inteligência Artificial. A IA atua como um entrevistador empático e curioso, guiando o usuário através de uma conversa para coletar informações e construir uma história de vida rica e coerente.

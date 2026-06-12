@@ -6,7 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #f0f2f5;
+  background-color: #FFF4ED;
   color: #333;
 }
 
@@ -19,7 +19,7 @@ body {
 
 /* Cabeçalho */
 .App-header {
-  background-color: #282c34;
+  background-color: #1E0D01;
   padding: 20px;
   color: white;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -71,14 +71,14 @@ body {
 }
 
 .message-bubble.user {
-  background-color: #007bff;
+  background-color: #F97518;
   color: white;
   align-self: flex-end;
   border-bottom-right-radius: 5px;
 }
 
 .message-bubble.bot {
-  background-color: #e9e9eb;
+  background-color: #FFDAC2;
   color: #333;
   align-self: flex-start;
   border-bottom-left-radius: 5px;
@@ -120,7 +120,7 @@ body {
   display: flex;
   padding: 15px;
   border-top: 1px solid #ddd;
-  background-color: #f9f9f9;
+  background-color: #FFF8F5;
 }
 
 .message-form input {
@@ -134,11 +134,11 @@ body {
 }
 
 .message-form input:focus {
-  border-color: #007bff;
+  border-color: #F97518;
 }
 
 .message-form button {
-  background-color: #007bff;
+  background-color: #F97518;
   color: white;
   border: none;
   padding: 12px 20px;
@@ -151,11 +151,11 @@ body {
 }
 
 .message-form button:hover {
-  background-color: #0056b3;
+  background-color: #C25B11;
 }
 
 .message-form button:disabled {
-  background-color: #a0c7ff;
+  background-color: #FFDAC2;
   cursor: not-allowed;
 }
 
@@ -171,5 +171,5 @@ body {
   padding: 15px;
   font-size: 0.9rem;
   color: #888;
-  background-color: #f0f2f5;
+  background-color: #FFF4ED;
 }
